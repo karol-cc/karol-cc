@@ -46,9 +46,7 @@ Disfruto aprender haciendo, enfrentar nuevos desafíos y buscar siempre solucion
 
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>  Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karol-cc&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karol-cc&theme=radical&langs_count=10&layout=compact&hide_border=true&cache_seconds=1800)
+![GitHub Activity](https://github-readme-stats.vercel.app/api?username=karol-cc&show_icons=true)
 
 ---
 
