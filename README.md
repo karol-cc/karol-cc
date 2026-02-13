@@ -47,7 +47,6 @@ Disfruto aprender haciendo, enfrentar nuevos desafíos y buscar siempre solucion
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>  Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karol-cc&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karol-cc&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
