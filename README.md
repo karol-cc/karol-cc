@@ -1,7 +1,8 @@
 <h1><b>¡Hola!, Soy Karol Cheverria </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Estudiante de Ingeniería de Sistemas enfocada en desarrollo backend. Construyo APIs REST y aplicaciones web con Java/Spring Boot y PHP/Laravel, con experiencia en frontend usando React y Next.js. Trabajo con bases de datos relacionales (MySQL, Oracle) y no relacionales (MongoDB), y tengo bases en ciberseguridad y arquitectura de sistemas.
-Me interesa especialmente la lógica de negocio y escribir código limpio y bien estructurado.
+
+- Me interesa especialmente la lógica de negocio y escribir código limpio y bien estructurado.
 ---
 
 ## 🧩 Herramientas y Tecnologías con las que he trabajado:
