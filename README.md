@@ -46,10 +46,10 @@ Estudiante de Ingeniería de Sistemas enfocada en desarrollo backend. Construyo 
 
 ---
  
-## 📌 Proyectos destacados
+## 📌 Proyecto destacado
  
-### 🏥 XIMCA — Sistema de Gestión Clínica
-> Plataforma SaaS para clínicas de medicina estética — en producción con 2 clientes activos
+### 🏥 XIMKA — Sistema de Gestión Clínica
+> Plataforma SaaS para clínicas de medicina estética 
  
 - Gestión de pacientes, registros clínicos y control de acceso basado en roles (RBAC)
 - Perfiles digitales para médicos remitentes con estadísticas propias
