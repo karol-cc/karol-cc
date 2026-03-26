@@ -56,9 +56,7 @@ Estudiante de Ingeniería de Sistemas enfocada en desarrollo backend. Construyo 
 - Historial clínico compartido entre remitentes con visibilidad de precios restringida por rol
 - Construido con **Next.js 15 · React 19 · TypeScript** integrado con **Laravel 11 REST API**
 - Principios aplicados: inmutabilidad de registros clínicos, auditoría de cambios, rate limiting contra fuerza bruta, tests automatizados con cobertura de seguridad y autorización
- 
-🔗 [Backend — Clinic Management System](https://github.com/karol-cc/clinic-management-system-back)
- 
+
 ---
 
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>  Estadísticas de GitHub
